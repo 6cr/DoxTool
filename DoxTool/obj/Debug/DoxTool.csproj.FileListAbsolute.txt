@@ -1,0 +1,11 @@
+C:\Users\zst\source\repos\DoxTool\DoxTool\bin\Debug\DoxTool.exe.config
+C:\Users\zst\source\repos\DoxTool\DoxTool\bin\Debug\DoxTool.exe
+C:\Users\zst\source\repos\DoxTool\DoxTool\bin\Debug\DoxTool.pdb
+C:\Users\zst\source\repos\DoxTool\DoxTool\obj\Debug\DoxTool.csprojAssemblyReference.cache
+C:\Users\zst\source\repos\DoxTool\DoxTool\obj\Debug\DoxTool.Browser.resources
+C:\Users\zst\source\repos\DoxTool\DoxTool\obj\Debug\DoxTool.Form1.resources
+C:\Users\zst\source\repos\DoxTool\DoxTool\obj\Debug\DoxTool.Properties.Resources.resources
+C:\Users\zst\source\repos\DoxTool\DoxTool\obj\Debug\DoxTool.csproj.GenerateResource.cache
+C:\Users\zst\source\repos\DoxTool\DoxTool\obj\Debug\DoxTool.csproj.CoreCompileInputs.cache
+C:\Users\zst\source\repos\DoxTool\DoxTool\obj\Debug\DoxTool.exe
+C:\Users\zst\source\repos\DoxTool\DoxTool\obj\Debug\DoxTool.pdb
